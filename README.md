@@ -7,3 +7,6 @@ for things like...
 - extracting frames from a video
 - adding annotations onto frames before forming them onto a video
 - combining frames into a video
+- Doing Histogram Equalisation (HE) on RGB images (traditionally HE is only done on single channel/greyscale)
+- Doing CLAHE on RGB images (similarly, traditionally CLAHE is only done on single channel/greyscale)
+- Auto brightness contrast adjustment (adapted from some code found on stackoverflow to fit RGB images instead of single channel) 
